@@ -1,2 +1,2 @@
 # s3-fileUpload-golang
-Golang Script to Upload File in S3
+Simple web UI and Golang Backend to upload file in AWS S3
